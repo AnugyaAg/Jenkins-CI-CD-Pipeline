@@ -91,7 +91,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
      - Scroll to "Pipeline" section
      - Select "Pipeline script from SCM"
      - Select "Git" as SCM
-     - Enter repository URL: `https://github.com/Aditya5757raj/Jenkins-CI-CD-Pipeline`
+     - Enter repository URL: `https://github.com/AnugyaAg/Jenkins-CI-CD-Pipeline`
      - Enter branch specifier: `*/main`
      - Click "Save"
 ![image](image3.png)
